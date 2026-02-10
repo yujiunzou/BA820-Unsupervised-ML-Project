@@ -2,7 +2,7 @@
 
 All files in this folder are my individual M2 work.
 
-**Primary notebook (graded analysis):**
+**Primary notebook:**
 - `Irene_Tang_M2_Individual_Assignment_Notebook.ipynb`
 
 **Supporting / reference files:**
