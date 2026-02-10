@@ -5,7 +5,7 @@ All files in this folder are my individual M2 work.
 **Primary notebook:**
 - `Irene_Tang_M2_Individual_Assignment_Notebook.ipynb`
 
-**Supporting / reference files:**
+**Report:**
 - `Irene_Tang_M2_Individual_Assignment_Report.pdf` 
 
 Notes:
