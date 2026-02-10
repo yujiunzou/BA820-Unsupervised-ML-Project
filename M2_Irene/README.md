@@ -9,4 +9,4 @@ All files in this folder are my individual M2 work.
 - `Irene_Tang_M2_Individual_Assignment_Report.pdf` 
 
 Notes:
-- The clustering + association rules analyses are both implemented and discussed in the primary notebook above.
+- The clustering and association rules analyses are both implemented and discussed in the primary notebook above.
