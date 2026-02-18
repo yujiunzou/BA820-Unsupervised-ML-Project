@@ -7,6 +7,7 @@ All files in this folder are M3 group work.
 
 **Report:** 
 - `M3_Bob_Ross_Paintings_Report.pdf`
+- `M3_ML_Chatlog.pdf`
 
 Notes:
 - The clustering and association rules analyses are both implemented and discussed in the primary notebook above.
