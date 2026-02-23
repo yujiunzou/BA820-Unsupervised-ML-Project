@@ -6,7 +6,7 @@ All files in this folder are M4 individual work.
 - `Irene_Tang_M4_Notebook.ipynb`
 
 **Report:** 
-- `Irene_Tang_M4_Bob_Ross_Paintings_Report.pdf`
+- `Irene_Tang_M4_Report.pdf`
 
 **Notes:**
 M4 refines from M3:
